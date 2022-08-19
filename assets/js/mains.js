@@ -1,8 +1,12 @@
-let numero_1=4;
-let numero_2=6;
+console.log("entro al mains.js");
 
 
-let calculadora = new Calculadora(numero_1, numero_2);
+
+let num_1=4;
+let num_2=6;
+
+
+let calculadora =new Calculadora(num_1, num_2);
 
 const suma = calculadora.sumar();
 const resta = calculadora.restar();
