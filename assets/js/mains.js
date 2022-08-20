@@ -2,7 +2,7 @@ console.log("entro al mains.js");
 
 
 
-let num_1=4;
+let num_1=9;
 let num_2=6;
 
 
